@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaConnect - Controlo de Novatos e Anciãos",
+  "description": "Plataforma universitária para registo, mentoria e controlo estatístico de estudantes Novatos e Anciãos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
